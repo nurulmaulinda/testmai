@@ -1,0 +1,35 @@
+ugas Pertama - Pengetahuan Umum
+
+1)Apa yang kamu ketahui tentang Version Control, (gunakan bahasa sendiri)
+*Sebuah sistem yang menyimpan 'rekaman/snapshot' perubahan pada sorce code yang kita buat, 
+ sehingga tidak perlu bikin versi secara manual.
+*Memungkinkan bekerja berkolaborasi dengan lebih baik.
+*Version control dapat mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi.
+*Memungkinkan kita untuk kembali ke keadaan sebelum terjadi perubahan (checkout).
+
+2)Jelaskan apa itu GIT
+*Salah satu software yang bisa melakukan vcs.
+*Sebuah software untuk mengelola perubahan file di dalam folder (Repository/repo).
+*Git akan menyimpan setiap history perubahannya menggunakan serangkaian commit.
+     *Git Command (local) <br>
+ ^ $ git init, untuk menginisialisasi repo git dikomputer.
+ ^ $ git add <file(s)>, untuk menambahkan file.
+ ^ $ git status, untuk mengetahui status repo kita apakah ada perubahan atau tidak.
+ ^ $ git commit, untuk melakukan commit. <br>
+ ^ $ git config, untuk memasukkan konfigurasi kedalam git.
+ ^ $ git branch, untuk bikin branch.
+ ^ $ git help, untuk mengetahui cara pakai sebuah perintah.
+ 
+ 3)Apa yang kamu ketahui tentang Framwork khususnya web Framework (gunakan bahasa sendiri).
+ *Aplikasi yang di desain untuk mendukung pengembangan dalam membangun sebuah aplikasi berbasis web dan otomatis web yang kita buat akan
+  terstandarisasi.
+  *contoh framework :
+    ^PHP FRAMEWORK (Laravel, Code Igniter (CI)
+    ^CSS FRAMEWORK (Bootstrap)
+    ^JS FRAMEWORK (Angular-JS)
+    
+ 4)Jelaskan istilah-istilah berikut: REST API, SQL, HTTP, UI Framework (gunakan bahasa sendiri)
+    *Rest API : Antarmuka yang berupa kumpulan fungsi yang dapat dipanggil atau dijalankan oleh program lain.
+    *SQL  :Sekumpulan perintah khusus yang digunakan untuk mengakses data dalam database relasional.
+    *HTTP : Sebuah protokol jaringan lapisan aplikasi yang digunakan untuk sistem informasi. 
+    * UI Framework : Framework open source yang bisa diintegrasikan dengan mudah kedalam project yang sedang kita buat.
