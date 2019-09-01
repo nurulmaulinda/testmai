@@ -1,4 +1,3 @@
-<h5>Tugas 4_1.php</h5>
 <form name="form" action="" method="post">
 	<input type="text" name="string">
 	<button type=submit onclick=is_palindrome;>Cek</button>
